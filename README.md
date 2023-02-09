@@ -14,7 +14,7 @@ To provide more practice and experience with foundational HTML and CSS.
 
 Link to the live site: https://jrossi425.github.io/horiseon-refactor/
 
-![alt text](.assets/images/Horiseon-Refactor-Live-Site.png)
+![alt text](assets/images/Horiseon-Refactor-Live-Site.png)
 
 ## Credits
 
